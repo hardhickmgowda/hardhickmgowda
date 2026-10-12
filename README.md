@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hardhick M Gowda  <br>2nd Year | PES University  <br><br>Aspiring IoT and Data Science Engineer with a strong interest in  <br>building scalable, real-world systems.  <br><br>Currently working on distributed IoT architectures using ESP32, MQTT,  <br>and sensor-based automation.  
+Hardhick M Gowda  <br>3rdYear | PES University  <br><br>Aspiring IoT and Data Science Engineer with a strong interest in  <br>building scalable, real-world systems.  <br><br>Currently working on distributed IoT architectures using ESP32, MQTT,  <br>and sensor-based automation.  
 
 
 ## 🌐 Socials:
